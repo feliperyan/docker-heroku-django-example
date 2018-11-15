@@ -1,0 +1,19 @@
+{
+  "name": "docker-heroku-django-example",
+  "scripts": {
+  },
+  "env": {
+    "review": "true"
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
